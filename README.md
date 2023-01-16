@@ -44,3 +44,10 @@
  - git branch 
 > lokális és távoli ágak listázása
 - git branch -av
+- git checkout -b új_ág_neve
+> Ág létrehozása
+- git branch új_ág_neve
+> Váltás egy másik ágra
+- git checkout másik_ág_neve 
+> Ág törlése (aktuális ág nem törölhető)
+- git branch -d törlendő_ág_neve
