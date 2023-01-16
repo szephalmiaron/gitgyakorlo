@@ -38,4 +38,9 @@
 
 ## 8. Távoli repó másolása (klónozása) a lokális repóba
 
-- git clone "távoli repó URL címe"
+- git clone "távoli repó URL címe"  
+## 9. Ágak (branches) kezelése 
+ >Lokális ágak listázása  
+ - git branch 
+> lokális és távoli ágak listázása
+- git branch -av
